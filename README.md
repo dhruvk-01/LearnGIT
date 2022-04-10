@@ -7,3 +7,4 @@
  - Opened a branch named git testBranch
  - Opened a branch named git testBranch
  - Making change on Remote through Github manually
+ - Make change via Local Environament
